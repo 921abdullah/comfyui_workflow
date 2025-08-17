@@ -1,0 +1,15 @@
+# keep CI fast & private
+.git
+__pycache__/
+*.log
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pt
+*.pth
+*.safetensors
+node_modules/
+comfyui_output/
+comfyui_temp/
+models/
